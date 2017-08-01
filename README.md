@@ -19,5 +19,5 @@ Inside the RMOTR folder are files created as part of the RMOTR Intro to Python c
 
 ## Other Resources
 
-[Built-in Functions](https://docs.python.org/2/library/functions.html)
-[Non-essential Built-in Functions](https://docs.python.org/2/library/functions.html#non-essential-built-in-functions)
+- [Built-in Functions](https://docs.python.org/2/library/functions.html)
+- [Non-essential Built-in Functions](https://docs.python.org/2/library/functions.html#non-essential-built-in-functions)
