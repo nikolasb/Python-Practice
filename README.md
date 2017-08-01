@@ -8,6 +8,6 @@ Inside the RMOTR folder are files created as part of the RMOTR Intro to Python c
 
 ### RMOTRGettingStarted.py
 
-Variables
-String formatting
-Printing (to the console)
+- Variables
+- String formatting
+- Printing (to the console)
